@@ -1,9 +1,7 @@
-Python 3.10.9
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn
-pickle
-joblib
-flask
+Flask==3.0.3
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+gunicorn==21.2.0
+Python 3.10
+
